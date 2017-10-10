@@ -3122,7 +3122,7 @@ var data = {
   "では": {
     "index": "313",
     "content": "では",
-    "furigana": "",
+    "furigana": "でわ",
     "romanji": "dewa",
     "han-viet": "",
     "meaning": "",
@@ -3596,7 +3596,7 @@ var data = {
     "romanji": "koko",
     "han-viet": "",
     "meaning": "Chỗ này, đây",
-    "group": "",
+    "group": "3",
     "key": "ここ"
   },
   "そこ": {
@@ -3606,7 +3606,7 @@ var data = {
     "romanji": "soko",
     "han-viet": "",
     "meaning": "Chỗ đó, đó",
-    "group": "",
+    "group": "3",
     "key": "そこ"
   },
   "あそこ": {
@@ -3616,7 +3616,7 @@ var data = {
     "romanji": "asoko",
     "han-viet": "",
     "meaning": "Chỗ kia, kia",
-    "group": "",
+    "group": "3",
     "key": "あそこ"
   },
   "どこ": {
@@ -3626,7 +3626,7 @@ var data = {
     "romanji": "doko",
     "han-viet": "",
     "meaning": "Chỗ nào, đâu",
-    "group": "",
+    "group": "3",
     "key": "どこ"
   },
   "こちら": {
@@ -3636,7 +3636,7 @@ var data = {
     "romanji": "kochira",
     "han-viet": "",
     "meaning": "Phía này, đằng này, chỗ này, đây (cách nói lịch sự của 「ここ」)",
-    "group": "",
+    "group": "3",
     "key": "こちら"
   },
   "そちら": {
@@ -3646,7 +3646,7 @@ var data = {
     "romanji": "sochira",
     "han-viet": "",
     "meaning": "Phía đó, đằng đó, chỗ đó, đó (cách nói lịch sự của 「そこ」)",
-    "group": "",
+    "group": "3",
     "key": "そちら"
   },
   "あちら": {
@@ -3656,7 +3656,7 @@ var data = {
     "romanji": "achira",
     "han-viet": "",
     "meaning": "Phía kia, đằng kia, chỗ kia, kia (cách nói lịch sự của 「あそ こ」)",
-    "group": "",
+    "group": "3",
     "key": "あちら"
   },
   "どちら": {
@@ -3666,7 +3666,7 @@ var data = {
     "romanji": "dochira",
     "han-viet": "",
     "meaning": "Phía nào, đằng nào, chỗ nào, đâu (cách nói lịch sự của 「どこ」)",
-    "group": "",
+    "group": "3",
     "key": "どちら"
   },
   "教室": {
@@ -3676,7 +3676,7 @@ var data = {
     "romanji": "kyōshitsu",
     "han-viet": "GIÁO THẤT",
     "meaning": "Lớp học, phòng học",
-    "group": "",
+    "group": "3",
     "key": "教室"
   },
   "食堂": {
@@ -3686,7 +3686,7 @@ var data = {
     "romanji": "shokudō",
     "han-viet": "THỰC ĐƯỜNG",
     "meaning": "Nhà ăn",
-    "group": "",
+    "group": "3",
     "key": "食堂"
   },
   "事務所": {
@@ -3696,7 +3696,7 @@ var data = {
     "romanji": "jimusho",
     "han-viet": "SỰ VỤ SỞ",
     "meaning": "Văn phòng",
-    "group": "",
+    "group": "3",
     "key": "事務所"
   },
   "会議室": {
@@ -3706,7 +3706,7 @@ var data = {
     "romanji": "kaigishitsu",
     "han-viet": "HỘI NGHỊ THẤT",
     "meaning": "Phòng họp",
-    "group": "",
+    "group": "3",
     "key": "会議室"
   },
   "受付": {
@@ -3716,7 +3716,7 @@ var data = {
     "romanji": "uketsuke",
     "han-viet": "THỤ PHÓ",
     "meaning": "Bộ phận tiếp tân, phòng thường trực",
-    "group": "",
+    "group": "3",
     "key": "受付"
   },
   "ロビー": {
@@ -3726,7 +3726,7 @@ var data = {
     "romanji": "robī",
     "han-viet": "",
     "meaning": "Hành lang, đại sảnh",
-    "group": "",
+    "group": "3",
     "key": "ロビー"
   },
   "部屋": {
@@ -3736,7 +3736,7 @@ var data = {
     "romanji": "heya",
     "han-viet": "BỘ ỐC",
     "meaning": "Căn phòng",
-    "group": "",
+    "group": "3",
     "key": "部屋"
   },
   "トイレ（お手洗い）": {
@@ -3745,8 +3745,8 @@ var data = {
     "furigana": "トイレ（おてあらい）",
     "romanji": "toire (o tearai)）",
     "han-viet": "THỦ  TẨY",
-    "meaning": "Nhà vệ sinh, phòng vệ sinh, toa- lét",
-    "group": "",
+    "meaning": "Nhà vệ sinh, phòng vệ sinh, toa-lét",
+    "group": "3",
     "key": "トイレ（お手洗い）"
   },
   "階段": {
@@ -3756,7 +3756,7 @@ var data = {
     "romanji": "kaidan",
     "han-viet": "GIAI ĐOẠN",
     "meaning": "Cầu thang",
-    "group": "",
+    "group": "3",
     "key": "階段"
   },
   "エレベーター": {
@@ -3766,7 +3766,7 @@ var data = {
     "romanji": "erebētā",
     "han-viet": "",
     "meaning": "Thang máy",
-    "group": "",
+    "group": "3",
     "key": "エレベーター"
   },
   "エスカレーター": {
@@ -3776,7 +3776,7 @@ var data = {
     "romanji": "esukarētā",
     "han-viet": "",
     "meaning": "Thang cuốn",
-    "group": "",
+    "group": "3",
     "key": "エスカレーター"
   },
   "[お]国": {
@@ -3786,7 +3786,7 @@ var data = {
     "romanji": "[o]koku",
     "han-viet": "",
     "meaning": "Đất nước (của anh/chị)",
-    "group": "",
+    "group": "3",
     "key": "[お]国"
   },
   "会社": {
@@ -3796,7 +3796,7 @@ var data = {
     "romanji": "kaisha",
     "han-viet": "",
     "meaning": "Công ty",
-    "group": "",
+    "group": "3",
     "key": "会社"
   },
   "うち": {
@@ -3806,7 +3806,7 @@ var data = {
     "romanji": "uchi",
     "han-viet": "",
     "meaning": "Nhà",
-    "group": "",
+    "group": "3",
     "key": "うち"
   },
   "電話": {
@@ -3816,7 +3816,7 @@ var data = {
     "romanji": "denwa",
     "han-viet": "",
     "meaning": "Máy điện thoại, điện thoại",
-    "group": "",
+    "group": "3",
     "key": "電話"
   },
   "靴": {
@@ -3826,7 +3826,7 @@ var data = {
     "romanji": "kutsu",
     "han-viet": "",
     "meaning": "Giầy",
-    "group": "",
+    "group": "3",
     "key": "靴"
   },
   "ネクタイ": {
@@ -3836,7 +3836,7 @@ var data = {
     "romanji": "nekutai",
     "han-viet": "",
     "meaning": "Cà-vạt",
-    "group": "",
+    "group": "3",
     "key": "ネクタイ"
   },
   "ワイン": {
@@ -3846,7 +3846,7 @@ var data = {
     "romanji": "wain",
     "han-viet": "",
     "meaning": "Rượu vang",
-    "group": "",
+    "group": "3",
     "key": "ワイン"
   },
   "たばこ": {
@@ -3856,7 +3856,7 @@ var data = {
     "romanji": "tabako",
     "han-viet": "",
     "meaning": "Thuốc lá",
-    "group": "",
+    "group": "3",
     "key": "たばこ"
   },
   "売り場": {
@@ -3866,7 +3866,7 @@ var data = {
     "romanji": "uriba",
     "han-viet": "",
     "meaning": "Quầy bán (trong một cửa hàng bách hóa)",
-    "group": "",
+    "group": "3",
     "key": "売り場"
   },
   "ちか": {
@@ -3876,7 +3876,7 @@ var data = {
     "romanji": "chika",
     "han-viet": "",
     "meaning": "Tầng hầm, dưới mặt đất",
-    "group": "",
+    "group": "3",
     "key": "ちか"
   },
   "―階": {
@@ -3886,7 +3886,7 @@ var data = {
     "romanji": "―kai (―gai)",
     "han-viet": "",
     "meaning": "Tầng thứ ―",
-    "group": "",
+    "group": "3",
     "key": "―階"
   },
   "何階": {
@@ -3896,7 +3896,7 @@ var data = {
     "romanji": "nan kai",
     "han-viet": "",
     "meaning": "Tầng mấy",
-    "group": "",
+    "group": "3",
     "key": "何階"
   },
   "—円": {
@@ -3906,7 +3906,7 @@ var data = {
     "romanji": "—en",
     "han-viet": "",
     "meaning": "― yên",
-    "group": "",
+    "group": "3",
     "key": "—円"
   },
   "いくら": {
@@ -3916,7 +3916,7 @@ var data = {
     "romanji": "ikura",
     "han-viet": "",
     "meaning": "Bao nhiêu tiền",
-    "group": "",
+    "group": "3",
     "key": "いくら"
   },
   "百": {
@@ -3926,7 +3926,7 @@ var data = {
     "romanji": "hyaku",
     "han-viet": "",
     "meaning": "Trăm",
-    "group": "",
+    "group": "3",
     "key": "百"
   },
   "千": {
@@ -3936,7 +3936,7 @@ var data = {
     "romanji": "sen",
     "han-viet": "",
     "meaning": "Nghìn",
-    "group": "",
+    "group": "3",
     "key": "千"
   },
   "万": {
@@ -3946,7 +3946,7 @@ var data = {
     "romanji": "man",
     "han-viet": "",
     "meaning": "Mười nghìn, vạn",
-    "group": "",
+    "group": "3",
     "key": "万"
   },
   "すみません。": {
@@ -3956,7 +3956,7 @@ var data = {
     "romanji": "sumimasen.",
     "han-viet": "",
     "meaning": "Xin lỗi",
-    "group": "",
+    "group": "3",
     "key": "すみません。"
   },
   "～でございます。": {
@@ -3966,7 +3966,7 @@ var data = {
     "romanji": "~degozaimasu.",
     "han-viet": "",
     "meaning": "(cách nói lịch sự của 「です」)",
-    "group": "",
+    "group": "3",
     "key": "～でございます。"
   },
   "[～を]見せてください": {
@@ -3976,7 +3976,7 @@ var data = {
     "romanji": "[~o]misetekudasai",
     "han-viet": "",
     "meaning": "Cho tôi xem [~]",
-    "group": "",
+    "group": "3",
     "key": "[～を]見せてください"
   },
   "じゃ2": {
@@ -3986,7 +3986,7 @@ var data = {
     "romanji": "ja",
     "han-viet": "",
     "meaning": "Thế thì, vậy thì",
-    "group": "",
+    "group": "3",
     "key": "じゃ2"
   },
   "[～を]ください": {
@@ -3996,7 +3996,7 @@ var data = {
     "romanji": "[~o]kudasai",
     "han-viet": "",
     "meaning": "Cho tôi [~]",
-    "group": "",
+    "group": "3",
     "key": "[～を]ください"
   },
   "イタリア": {
@@ -4006,7 +4006,7 @@ var data = {
     "romanji": "itaria",
     "han-viet": "",
     "meaning": "Ý",
-    "group": "",
+    "group": "3",
     "key": "イタリア"
   },
   "スイス": {
@@ -4016,7 +4016,87 @@ var data = {
     "romanji": "suisu",
     "han-viet": "",
     "meaning": "Thụy Sĩ",
-    "group": "",
+    "group": "3",
     "key": "スイス"
+  },
+  "お手洗い": {
+    "index": "403",
+    "content": "お手洗い",
+    "furigana": "おてあらい",
+    "romanji": "o tearai",
+    "han-viet": "",
+    "meaning": "Nhà vệ sinh, phòng vệ sinh, toa-lét",
+    "group": "3",
+    "key": "お手洗い"
+  },
+  "階": {
+    "index": "404",
+    "content": "階",
+    "furigana": "かい",
+    "romanji": "kai",
+    "han-viet": "",
+    "meaning": "Tầng thứ ―",
+    "group": "3",
+    "key": "階"
+  },
+  "山田": {
+    "index": "405",
+    "content": "山田",
+    "furigana": "やまだ",
+    "romanji": "yamada",
+    "han-viet": "",
+    "meaning": "Yamada",
+    "group": "3",
+    "key": "山田"
+  },
+  "なん": {
+    "index": "406",
+    "content": "なん",
+    "furigana": "",
+    "romanji": "nan",
+    "han-viet": "",
+    "meaning": "Gì",
+    "group": "3",
+    "key": "なん"
+  },
+  "学校": {
+    "index": "407",
+    "content": "学校",
+    "furigana": "がっこう",
+    "romanji": "gakkō",
+    "han-viet": "",
+    "meaning": "Trường học",
+    "group": "3",
+    "key": "学校"
+  },
+  "お国": {
+    "index": "408",
+    "content": "お国",
+    "furigana": "おくに",
+    "romanji": "o kuni",
+    "han-viet": "",
+    "meaning": "",
+    "group": "3",
+    "key": "お国"
+  },
+  "どれ": {
+    "index": "409",
+    "content": "どれ",
+    "furigana": "",
+    "romanji": "dore",
+    "han-viet": "",
+    "meaning": "",
+    "group": "8",
+    "key": "どれ"
+  },
+  "どの": {
+    "index": "410",
+    "content": "どの",
+    "furigana": "",
+    "romanji": "dono",
+    "han-viet": "",
+    "meaning": "",
+    "group": "",
+    "key": "どの"
   }
 };
