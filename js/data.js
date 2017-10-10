@@ -3778,5 +3778,245 @@ var data = {
     "meaning": "Thang cuốn",
     "group": "",
     "key": "エスカレーター"
+  },
+  "[お]国": {
+    "index": "379",
+    "content": "[お]国",
+    "furigana": "[お]くに",
+    "romanji": "[o]koku",
+    "han-viet": "",
+    "meaning": "Đất nước (của anh/chị)",
+    "group": "",
+    "key": "[お]国"
+  },
+  "会社": {
+    "index": "380",
+    "content": "会社",
+    "furigana": "かいしゃ",
+    "romanji": "kaisha",
+    "han-viet": "",
+    "meaning": "Công ty",
+    "group": "",
+    "key": "会社"
+  },
+  "うち": {
+    "index": "381",
+    "content": "うち",
+    "furigana": "",
+    "romanji": "uchi",
+    "han-viet": "",
+    "meaning": "Nhà",
+    "group": "",
+    "key": "うち"
+  },
+  "電話": {
+    "index": "382",
+    "content": "電話",
+    "furigana": "でんわ",
+    "romanji": "denwa",
+    "han-viet": "",
+    "meaning": "Máy điện thoại, điện thoại",
+    "group": "",
+    "key": "電話"
+  },
+  "靴": {
+    "index": "383",
+    "content": "靴",
+    "furigana": "くつ",
+    "romanji": "kutsu",
+    "han-viet": "",
+    "meaning": "Giầy",
+    "group": "",
+    "key": "靴"
+  },
+  "ネクタイ": {
+    "index": "384",
+    "content": "ネクタイ",
+    "furigana": "",
+    "romanji": "nekutai",
+    "han-viet": "",
+    "meaning": "Cà-vạt",
+    "group": "",
+    "key": "ネクタイ"
+  },
+  "ワイン": {
+    "index": "385",
+    "content": "ワイン",
+    "furigana": "",
+    "romanji": "wain",
+    "han-viet": "",
+    "meaning": "Rượu vang",
+    "group": "",
+    "key": "ワイン"
+  },
+  "たばこ": {
+    "index": "386",
+    "content": "たばこ",
+    "furigana": "",
+    "romanji": "tabako",
+    "han-viet": "",
+    "meaning": "Thuốc lá",
+    "group": "",
+    "key": "たばこ"
+  },
+  "売り場": {
+    "index": "387",
+    "content": "売り場",
+    "furigana": "うりば",
+    "romanji": "uriba",
+    "han-viet": "",
+    "meaning": "Quầy bán (trong một cửa hàng bách hóa)",
+    "group": "",
+    "key": "売り場"
+  },
+  "ちか": {
+    "index": "388",
+    "content": "ちか",
+    "furigana": "",
+    "romanji": "chika",
+    "han-viet": "",
+    "meaning": "Tầng hầm, dưới mặt đất",
+    "group": "",
+    "key": "ちか"
+  },
+  "―階": {
+    "index": "389",
+    "content": "―階",
+    "furigana": "―かい（―がい）",
+    "romanji": "―kai (―gai)",
+    "han-viet": "",
+    "meaning": "Tầng thứ ―",
+    "group": "",
+    "key": "―階"
+  },
+  "何階": {
+    "index": "390",
+    "content": "何階",
+    "furigana": "なんがい",
+    "romanji": "nan kai",
+    "han-viet": "",
+    "meaning": "Tầng mấy",
+    "group": "",
+    "key": "何階"
+  },
+  "—円": {
+    "index": "391",
+    "content": "—円",
+    "furigana": "―えん",
+    "romanji": "—en",
+    "han-viet": "",
+    "meaning": "― yên",
+    "group": "",
+    "key": "—円"
+  },
+  "いくら": {
+    "index": "392",
+    "content": "いくら",
+    "furigana": "",
+    "romanji": "ikura",
+    "han-viet": "",
+    "meaning": "Bao nhiêu tiền",
+    "group": "",
+    "key": "いくら"
+  },
+  "百": {
+    "index": "393",
+    "content": "百",
+    "furigana": "ひゃく",
+    "romanji": "hyaku",
+    "han-viet": "",
+    "meaning": "Trăm",
+    "group": "",
+    "key": "百"
+  },
+  "千": {
+    "index": "394",
+    "content": "千",
+    "furigana": "せん",
+    "romanji": "sen",
+    "han-viet": "",
+    "meaning": "Nghìn",
+    "group": "",
+    "key": "千"
+  },
+  "万": {
+    "index": "395",
+    "content": "万",
+    "furigana": "まん",
+    "romanji": "man",
+    "han-viet": "",
+    "meaning": "Mười nghìn, vạn",
+    "group": "",
+    "key": "万"
+  },
+  "すみません。": {
+    "index": "396",
+    "content": "すみません。",
+    "furigana": "",
+    "romanji": "sumimasen.",
+    "han-viet": "",
+    "meaning": "Xin lỗi",
+    "group": "",
+    "key": "すみません。"
+  },
+  "～でございます。": {
+    "index": "397",
+    "content": "～でございます。",
+    "furigana": "",
+    "romanji": "~degozaimasu.",
+    "han-viet": "",
+    "meaning": "(cách nói lịch sự của 「です」)",
+    "group": "",
+    "key": "～でございます。"
+  },
+  "[～を]見せてください": {
+    "index": "398",
+    "content": "[～を]見せてください",
+    "furigana": "",
+    "romanji": "[~o]misetekudasai",
+    "han-viet": "",
+    "meaning": "Cho tôi xem [~]",
+    "group": "",
+    "key": "[～を]見せてください"
+  },
+  "じゃ2": {
+    "index": "399",
+    "content": "じゃ",
+    "furigana": "",
+    "romanji": "ja",
+    "han-viet": "",
+    "meaning": "Thế thì, vậy thì",
+    "group": "",
+    "key": "じゃ2"
+  },
+  "[～を]ください": {
+    "index": "400",
+    "content": "[～を]ください",
+    "furigana": "",
+    "romanji": "[~o]kudasai",
+    "han-viet": "",
+    "meaning": "Cho tôi [~]",
+    "group": "",
+    "key": "[～を]ください"
+  },
+  "イタリア": {
+    "index": "401",
+    "content": "イタリア",
+    "furigana": "",
+    "romanji": "itaria",
+    "han-viet": "",
+    "meaning": "Ý",
+    "group": "",
+    "key": "イタリア"
+  },
+  "スイス": {
+    "index": "402",
+    "content": "スイス",
+    "furigana": "",
+    "romanji": "suisu",
+    "han-viet": "",
+    "meaning": "Thụy Sĩ",
+    "group": "",
+    "key": "スイス"
   }
 };
