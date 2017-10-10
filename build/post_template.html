@@ -1,0 +1,21 @@
+﻿<script src="https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/js/popper.min.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/js/mdb.min.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/js/u7ha1.min.js" type="text/javascript"></script>
+<div id="main-chapter">
+   <style scoped>
+      @import 'https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/css/bootstrap.min.css';
+      @import 'https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/css/mdb.min.css';
+      @import 'https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/css/u7ha1.min.css';
+   </style>
+   <div class="content"></div>
+</div>
+<script>
+   var url = 'https://cdn.rawgit.com/ChuoiDongHop/u7ha1/POST001/build/chapter_1/vocabulary.min.html';
+
+   $('#main-chapter > .content').load(url, function () {
+      $('.u7ha1-chapter').u7ha1('initialize');
+      $('.u7ha1-chapter').u7ha1('vocabularies');
+   });
+</script>

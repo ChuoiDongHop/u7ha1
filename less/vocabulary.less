@@ -1,0 +1,43 @@
+@import 'config.less';
+@import 'fonts.less';
+@import 'material-color.less';
+
+.heading
+{
+    &-1
+    {
+        font-weight: bold;
+
+        margin-top: 1.5em;
+
+        color: @clr-white;
+        background-color: @clr-black;
+    }
+}
+
+.vocabulary
+{
+    text-align: left;
+
+    &:nth-child(even)
+    {
+        color: @clr-black;
+        background: @clr-grey-100;
+    }
+
+    &:nth-child(odd)
+    {
+        color: @clr-black;
+        background: @clr-grey-400;
+    }
+
+    .content
+    {
+        font-weight: bold;
+    }
+
+    .romanji
+    {
+        font-style: italic;
+    }
+}

@@ -1,0 +1,29 @@
+@import 'text-style.less';
+
+.u7ha1-chapter
+{
+    font-family: @default-font-family !important;
+    font-size: @default-font-size !important;
+    line-height: @default-line-height !important;
+
+    margin: 3em 0;
+
+    text-align: justify;
+
+    color: @clr-grey-900;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @import 'text-style.less';
+    @import 'more-info.less';
+
+    &[region='vocabulary']
+    {
+        @import 'vocabulary.less';
+    }
+
+    &[region='grammar']
+    {
+        @import 'grammar.less';
+    }
+}

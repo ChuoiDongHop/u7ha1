@@ -1,0 +1,123 @@
+@import 'config.less';
+@import 'fonts.less';
+@import 'material-color.less';
+
+.heading
+{
+    &-1
+    {
+        font-size: 1.5em;
+        font-weight: bold;
+
+        margin-top: .25em;
+        margin-bottom: .25em;
+        padding-top: .25em;
+        padding-bottom: .25em;
+
+        color: @clr-blue;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: @clr-blue;
+    }
+
+    &-2
+    {
+        font-size: 1.25em;
+        font-weight: bold;
+
+        margin-top: .25em;
+    }
+}
+
+.numbering
+{
+    &::after
+    {
+        content: '\0009';
+    }
+
+    &.circle
+    {
+        font-size: .75em;
+        line-height: 1.5em;
+
+        display: inline-block;
+
+        width: 1.5em;
+
+        text-align: center;
+
+        border: @clr-black solid 1px;
+        border-radius: 50%;
+    }
+}
+
+.segment
+{
+    margin-bottom: 1em;
+}
+
+.text
+{
+    &.bold
+    {
+        font-weight: bold;
+    }
+
+    &.blue
+    {
+        color: @clr-blue;
+    }
+}
+
+.vocabulary
+{
+    position: relative;
+
+    display: inline-block;
+
+    cursor: pointer;
+
+    &:hover
+    {
+        color: @clr-red-900;
+    }
+
+    > ruby
+    {
+        text-align: center;
+
+        > rt
+        {
+            font-size: 70% !important;
+            line-height: normal;
+
+            text-align: center;
+        }
+    }
+
+    > rb
+    {
+        font-size: 60% !important;
+        font-style: italic;
+        line-height: 0;
+
+        display: block;
+
+        height: 0;
+        height: 0;
+
+        text-align: center;
+
+        @font-size: 1em / .6;
+    }
+
+    &.furigana
+    {
+        /*> rb
+        {
+            //transform: translateY(@font-size + 1.625em);
+            @font-size: 1em/.6;
+        }*/
+    }
+}

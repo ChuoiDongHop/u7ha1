@@ -1,0 +1,10 @@
+﻿{
+   "options": {
+   },
+
+   "target": {
+      "files": {
+         "css/u7ha1.css": "less/u7ha1.less"
+      }
+   }
+}
